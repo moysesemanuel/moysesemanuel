@@ -38,6 +38,16 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+
+### Soft Skills
+* Communication
+* Teamwork
+* Agility in learning
+* Planning
+* Proactiveness
+* Willing
+* Transparency
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{moysesemanuel}/count.svg" /></p> 
