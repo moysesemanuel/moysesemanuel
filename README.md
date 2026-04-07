@@ -1,96 +1,158 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+# 👋 Hi, I'm Moyses Emanuel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00bfbf&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Moyses+Emanuel;Full+Stack+Developer;Node.js+%7C+TypeScript+%7C+Next.js;Building+real+projects+to+grow+my+skills)](https://git.io/typing-svg)
-
----
-
-## 👨‍💻 About me
-
-- 💻 Full Stack Developer  
-- 🚀 Working with **Node.js, TypeScript and Next.js**  
-- 📚 Studying System Analysis and Development  
-- 📍 Curitiba - PR, Brazil  
+💻 Full Stack Developer (Node.js | TypeScript | Next.js)  
+📍 Curitiba - PR, Brazil  
 
 ---
 
-## 🎯 Current focus
+## 🚀 About me
 
-- Backend with Node.js (APIs, authentication, integrations)
-- Frontend with Next.js (SSR, performance, UX)
-- Clean architecture and scalable projects
-- Real-world systems (not just study projects)
+I’m a developer focused on building real-world systems with clean structure and practical business logic.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=moysesemanuel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moysesemanuel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-</div>
-
----
-
-## 📌 Featured Projects
-
-🔹 **Barbershop System (Main Project)**  
-Full system with scheduling, customer area, services and backoffice.  
-Built focusing on real business scenarios.
-
-🔹 **Banco de Itens (Work Project)**  
-Platform integrated with Moodle for question management, filters and export (PDF/DOCX).  
-Focus on backend rules, validation and integrations.
-
-🔹 **Stock Control System (Java)**  
-Console application to practice OOP and logic (learning project).
+- Experience with backend APIs, authentication and integrations  
+- Building scalable applications using modern stack  
+- Always improving code quality and architecture  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Main
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**Main**
+- Node.js
+- TypeScript
+- Next.js
 
-### Backend
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+**Backend**
+- Express
+- Prisma
+- REST APIs
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+**Frontend**
+- React
+- Tailwind CSS
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🧠 Soft Skills
-
-- Communication  
-- Teamwork  
-- Fast learning  
-- Problem-solving  
-- Proactivity  
+**Tools**
+- Git & GitHub
+- VS Code
 
 ---
 
-## 📲 Contact
+## 📌 Featured Projects
 
-<div align="center">  
-<a href="https://www.instagram.com/mecs.cwb_/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-</div>
+### 🔹 Barbershop System
+Full system with scheduling, customer area and admin panel.
+
+**Features:**
+- Online scheduling  
+- Customer dashboard  
+- Service management  
+- Backoffice  
+
+👉 https://github.com/moysesemanuel/barbearia-premium
 
 ---
 
-<div align="center">
-<br><p><b>Visitors</b></p>  
-<p><img src="https://profile-counter.glitch.me/moysesemanuel/count.svg" /></p> 
-<br></div>
+### 🔹 Banco de Itens (Work Project)
+Question management platform integrated with Moodle.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+**Highlights:**
+- Advanced filters (BNCC, ENEM, SAEB)  
+- Export to PDF/DOCX  
+- Backend validation rules  
+
+---
+
+### 🔹 Stock Control System (Java)
+Console project focused on OOP and logic.
+
+---
+
+## 📈 What I'm working on
+
+- Improving backend architecture  
+- Building real business systems  
+- Preparing projects for freelance opportunities  
+
+---
+
+## 📬 Contact
+
+- Instagram: https://www.instagram.com/mecs.cwb_/  
+
+---
+
+# 🇧🇷 Versão em Português
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Full Stack focado na construção de sistemas reais, com estrutura organizada e regras de negócio bem definidas.
+
+- Experiência com APIs backend, autenticação e integrações  
+- Desenvolvimento de aplicações escaláveis com tecnologias modernas  
+- Evolução contínua em qualidade de código e arquitetura  
+
+---
+
+## 🛠️ Tecnologias
+
+**Principais**
+- Node.js
+- TypeScript
+- Next.js
+
+**Backend**
+- Express
+- Prisma
+- APIs REST
+
+**Frontend**
+- React
+- Tailwind CSS
+
+**Ferramentas**
+- Git & GitHub
+- VS Code
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 Sistema de Barbearia
+Sistema completo com agendamento, área do cliente e painel administrativo.
+
+**Funcionalidades:**
+- Agendamento online  
+- Área do cliente  
+- Gestão de serviços  
+- Backoffice  
+
+👉 https://github.com/moysesemanuel/barbearia-premium
+
+---
+
+### 🔹 Banco de Itens (Projeto profissional)
+Plataforma integrada ao Moodle para gerenciamento de questões.
+
+**Destaques:**
+- Filtros avançados (BNCC, ENEM, SAEB)  
+- Exportação em PDF/DOCX  
+- Validações no backend  
+
+---
+
+### 🔹 Controle de Estoque (Java)
+Aplicação de console focada em lógica e programação orientada a objetos.
+
+---
+
+## 📈 No que estou focado
+
+- Evoluir arquitetura backend  
+- Construir sistemas com regras de negócio reais  
+- Preparar projetos para oportunidades freelance  
+
+---
+
+## 📬 Contato
+
+- Instagram: https://www.instagram.com/mecs.cwb_/  
